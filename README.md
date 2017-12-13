@@ -10,8 +10,9 @@ This web application will help you to quick start your application development. 
 
 ### Installing
 Execute the following commands to run the web application
-1. npm install
-2. ng serve open
+1. git clone https://github.com/chanduchama/angular5_quickstart.git
+2. npm install
+3. ng serve open
 
 Application will be available at the following URL
 http://localhost:4200/

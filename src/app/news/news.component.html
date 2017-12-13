@@ -1,0 +1,24 @@
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-lg-10 col-sm-6 ">
+            <h4 style='margin-top:0px;'>Sample news feed from BBC</h4>
+        </div>
+    </div>
+  <div class="row">
+      <div class="col-md-12">
+          <div class="card">
+              <div class="content">
+                  <dx-data-grid #grid id="gridContainer" [dataSource]="news" [allowColumnResizing]="true" [columnMinWidth]="50" [columnAutoWidth]="true" [columns]="['author','description','publishedAt','title','url','urlToImage']" [selectedRowKeys]="[]">
+                      <dxo-selection mode="single"></dxo-selection>
+                      <dxo-export [enabled]="true" fileName="Corning-Alerts" [allowExportSelectedData]="true"></dxo-export>
+                      <dxo-paging [pageSize]="10" [enabled]="true"></dxo-paging>
+                      <dxo-column-chooser [enabled]="true"></dxo-column-chooser>
+                      <dxo-filter-row [visible]="true"></dxo-filter-row>
+                      <dxo-search-panel [visible]="true" [width]="200" placeholder="Search..."></dxo-search-panel>
+                  </dx-data-grid>
+              </div>
+          </div>
+      </div>
+
+  </div>
+</div>

@@ -30,8 +30,9 @@ I have used creative-tim free angular 2 paper dashboard for building this applic
 
 ## Author
 Sarath Chandra Chama
-Linkedin: https://www.linkedin.com/in/sarath-chandra-chama/
-Github: https://github.com/chanduchama
+
+* [Linkedin](https://www.linkedin.com/in/sarath-chandra-chama/)
+* [Github](https://github.com/chanduchama)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details

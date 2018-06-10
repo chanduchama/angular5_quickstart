@@ -1,7 +1,6 @@
 import { Routes } from '@angular/router';
 
 import { DashboardComponent } from './dashboard/dashboard.component';
-import { UpgradeComponent } from './upgrade/upgrade.component';
 import { NewsComponent } from 'app/news/news.component';
 
 export const AppRoutes: Routes = [

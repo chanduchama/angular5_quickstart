@@ -10,7 +10,6 @@ import { NavbarModule} from './shared/navbar/navbar.module';
 import { NguiMapModule} from '@ngui/map';
 
 import { DashboardComponent } from './dashboard/dashboard.component';
-import { UpgradeComponent } from './upgrade/upgrade.component';
 import { NewsComponent } from './news/news.component';
 import { NewsService } from 'app/news/news.service';
 import { HttpModule } from '@angular/http';

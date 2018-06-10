@@ -1,9 +1,6 @@
 import { environment } from './../../environments/environment';
 import { Http, Headers } from '@angular/http';
 import { Injectable } from '@angular/core';
-
-import 'rxjs/add/operator/toPromise';
-
 import { News } from 'app/news/news';
 
 @Injectable()

@@ -1,8 +1,8 @@
 # Project Title
-Angular 5 + Bootstrap + Devexpress + Node js server quick start application.
+Angular + Bootstrap + Devexpress + Node js server quick start application.
 
 ## Getting Started
-This web application will help you to quick start your application development. It uses Angular 5, Node server, Devexpress, Bootstrap, Jquery and other javascript frameworks. I have also followed all the coding standards and architectural aspects of enterprise web app development for building this web application.
+This web application will help you to quick start your application development. It uses Angular 6, Node server, Devexpress, Bootstrap, Jquery and other javascript frameworks. I have also followed all the coding standards and architectural aspects of enterprise web app development for building this web application.
 
 ### Prerequisites
 1. NPM
@@ -12,7 +12,7 @@ This web application will help you to quick start your application development. 
 Execute the following commands to run the web application
 1. git clone https://github.com/chanduchama/angular5_quickstart.git
 2. npm install
-3. ng serve open
+3. ng serve
 
 Application will be available at the following URL
 http://localhost:4200/
@@ -25,7 +25,7 @@ Application will be available at the following URL
 http://localhost:3000/
 
 ## Built With
-I have used creative-tim free angular 2 paper dashboard for building this application. I upgraded the angular version to 5, added a new service, component, and view for the news dashboard
+I have used creative-tim free angular 2 paper dashboard for building this application. I upgraded the angular version to 6, added a new service, component, and view for the news dashboard
 * [creative-tim](https://www.creative-tim.com/product/paper-dashboard-angular) - HTML + Bootstrap + Angular Application
 * [Devexpress](https://js.devexpress.com/) - Data grid/HTML widgets
 
